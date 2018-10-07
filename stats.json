@@ -29,8 +29,8 @@
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-5074b1a9674bd430996f.js",
-      "component---src-layouts-index-js-5074b1a9674bd430996f.js.map"
+      "component---src-layouts-index-js-9367ed3188cc1b713dc0.js",
+      "component---src-layouts-index-js-9367ed3188cc1b713dc0.js.map"
     ],
     "component---src-pages-releases-js": [
       "component---src-pages-releases-js-6698e16fdffdeb374e20.js",
@@ -45,8 +45,8 @@
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
     ],
     "commons": [
-      "commons-e510227262d3c2d7b585.js",
-      "commons-e510227262d3c2d7b585.js.map"
+      "commons-d7c42498e02bb82eb058.js",
+      "commons-d7c42498e02bb82eb058.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
@@ -61,9 +61,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-282b0f75c062630c3d99.js",
+      "app-10b518a3e7e007baddf8.js",
       "build-js-styles.css",
-      "app-282b0f75c062630c3d99.js.map",
+      "app-10b518a3e7e007baddf8.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
